@@ -1,28 +1,31 @@
-# 🌟 Portfolio Website
+#  Portfolio Website  
 
-This is my personal **Portfolio Website** built with HTML, CSS (Tailwind), and JavaScript.  
-It showcases my projects, skills, and experiences.  
+This is my personal **Portfolio Website** rebuilt with **Next.js 13 (App Router)** and **Tailwind CSS**.  
+It showcases my projects, skills, and experiences with smooth animations and a modern developer stack.  
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo  
 
 - **Vercel Deployment:** [View on Vercel](https://portfolio-git-main-zainabbashir425s-projects.vercel.app/)  
-- **GitHub Pages Deployment:** [View on GitHub Pages](https://zainabbashir425.github.io/Portfolio/)  
 
 ---
 
-## Features
-- Responsive design (mobile-friendly  & desktop )  
-- Smooth animations with Intersection Observer API  
-- Active navigation highlighting on scroll  
-- Clean and minimal UI built with Tailwind CSS  
+##  Features  
+-  **Next.js 13 App Router** for optimized routing and layouts  
+-  **Responsive design** (mobile-friendly & desktop)  
+-  **Tailwind CSS** for clean, utility-first styling  
+-  **Scroll animations** with Intersection Observer API in React hooks  
+-  **Active navigation highlight** based on scroll position  
+-  **Optimized image handling** with Next.js  
+-  **SEO-friendly** metadata setup  
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5**  
+##  Tech Stack  
+- **Next.js 13 (App Router)**  
+- **React**  
 - **Tailwind CSS**  
-- **JavaScript (Vanilla)**  
+- **JavaScript (ES6+)**  
 
 ---
