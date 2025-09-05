@@ -3,8 +3,8 @@ export default function About() {
     <section id="about-section" className="relative py-16">
     <div className="container max-w-[1200px] mx-auto px-6 lg:px-12">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-        <div className="hidden md:flex relative h-[400px] w-full rounded-2xl bg-cover bg-center shadow-lg"
-          style={{backgroundImage: "url('/profile1.png')"}}>
+        <div className="hidden md:flex relative h-full w-full rounded-2xl bg-cover bg-center shadow-lg"
+          style={{backgroundImage: "url('/image.png')"}}>
           <div className="absolute inset-0 bg-black/40 rounded-2xl"></div>
         </div>
 

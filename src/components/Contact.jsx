@@ -47,6 +47,8 @@ export default function Contact() {
 
       <div className="grid lg:grid-cols-2 gap-8 items-center">
         <form className="bg-white p-6 shadow-lg space-y-4">
+          <input type="email" placeholder="Email"
+            className="w-full p-3 rounded-lg text-black border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#ffbd39]" />
           <input type="text" placeholder="Subject"
             className="w-full p-3 rounded-lg text-black border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#ffbd39]" />
           <textarea rows="6" placeholder="Message"
@@ -57,7 +59,7 @@ export default function Contact() {
         </form>
 
         <div className="hidden lg:flex justify-center">
-          <img src="profile1.png" alt="Profile" className="rounded-xl shadow-lg w-4/5 object-cover" />
+          <img src="image2.png" alt="Profile" className="rounded-xl xl:w-2/3 shadow-lg w-4/5 object-cover" />
         </div>
       </div>
     </div>
